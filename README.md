@@ -1,4 +1,4 @@
 # Landing Page
 An HTML/CSS landing page.
 - Live link: https://error-404-page.netlify.app/
-![screenshot](https://github.com/Adedeji-Taiwo/404-Page-Challenge/blob/main/404-not-found-Mobile-View.Screenshot.png)
+![screenshot](https://github.com/Adedeji-Taiwo/Landing-Page/blob/main/screencapture-127-0-0-1-5500-GlassMorphHome-html-2021-07-06-23_40_43.png)
