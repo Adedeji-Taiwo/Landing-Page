@@ -344,7 +344,7 @@ img.user {
       width: 290px;
     }
 
-   .img img, .feat-img  {
+   div.img, .img img, .feat-img  {
       margin-bottom: 35px;
       justify-self: center;
       align-self: center;
