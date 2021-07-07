@@ -344,7 +344,7 @@ img.user {
       width: 290px;
     }
 
-    div.img {
+   .img img, .feat-img  {
       margin-bottom: 35px;
       justify-self: center;
       align-self: center;
@@ -369,6 +369,8 @@ img.user {
     }
       
     .img img, .feat-img {
-		width: 200px;
-	}
+	width: 200px;
+	height: 200px;
+	    	
+    }	
   }
