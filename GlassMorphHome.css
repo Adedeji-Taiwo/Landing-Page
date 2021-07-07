@@ -367,4 +367,8 @@ img.user {
     .nav-items > a {
       font-size: 18px;
     }
+      
+    .img img, .feat-img {
+		width: 200px;
+	}
   }
